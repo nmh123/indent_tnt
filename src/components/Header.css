@@ -1,0 +1,18 @@
+     ul.mr-auto.navbar-nav {
+        margin: auto !important;
+    }
+ /*    .bg-gradient-info {
+        background: linear-gradient(
+    87deg,#e4fbff,#1171ef)!important;
+    } */
+   
+   .navbar-brand {
+    display: inline-block;
+    padding-top: 0.0625rem;
+    padding-bottom: 0.0625rem;
+    margin-right: 1rem;
+    font-size: 1.45rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white !important;
+}

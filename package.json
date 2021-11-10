@@ -1,0 +1,66 @@
+{
+  "name": "t1-frontend-new",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^1.8.0",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "babel-polyfill": "6.26.0",
+    "bootstrap-daterangepicker": "^3.1.0",
+    "jquery": "^3.6.0",
+    "leaflet": "1.5.1",
+    "leaflet-control-geocoder": "^2.3.0",
+    "leaflet-routing-machine": "3.2.12",
+    "lrm-google": "^1.0.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "netlify-identity-widget": "^1.9.1",
+    "react": "^17.0.2",
+    "react-autocomplete-places": "^7.3.0",
+    "react-beautiful-dnd": "^12.2.0",
+    "react-bootstrap": "^1.6.1",
+    "react-bootstrap-daterangepicker": "^7.0.0",
+    "react-datetime": "^3.0.0-beta.8",
+    "react-datetime-picker": "^3.4.1",
+    "react-dom": "^17.0.2",
+    "react-fullpage-custom-loader": "^0.1.6",
+    "react-intl-tel-input": "^8.0.4",
+    "react-leaflet": "^2.0.1",
+    "react-leaflet-search": "^2.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-sortable": "^2.0.0",
+    "react-telephone-input": "^4.5.6",
+    "react-time-picker": "^4.4.2",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^4.3.2",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+/* .modal-backdrop.show {
+    opacity: 0.7 !important;
+}
+.modal-content {
+	background: none !important;
+    box-shadow: none !important;
+}
+.spinner-border {
+    display: inline-block !important;
+    width: 5rem !important;
+    height: 5rem !important;
+    vertical-align: text-bottom !important;
+    border: 0.5em solid currentColor !important;
+    border-right-color: transparent !important;
+    border-radius: 50% !important;
+    animation: .65s linear infinite spinner-border !important;
+} */
